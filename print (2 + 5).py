@@ -1,0 +1,5 @@
+print (2 + 5)
+print (3 + 5)
+print (4 - 3.5)
+print (7 * 7)
+print (2 / 5)
